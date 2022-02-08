@@ -1,0 +1,34 @@
+{
+"biler": [
+{
+    "bilmaerke": "Suzuki Swift",
+    "billede": "billeder/Suzukiswift.png",
+    "billedtekst": "Billede af udlejningsbil",
+    "kategori": "Budget",
+    "personer": "4",
+    "kufferter": "0",
+    "lejepris": "DKK1400,00",
+    "tillaeg":"0"
+},
+{
+    "bilmaerke": "Mazda CX3",
+    "billede": "billeder/Mazda.png",
+    "billedtekst": "Billede af udlejningsbil",
+    "kategori": "Mellemklasse",
+    "personer": "5",
+    "kufferter": "3",
+    "lejepris": "DKK1600,00",
+    "tillaeg":"60"
+},
+{
+    "bilmaerke": "Citroën Grand C4 Picasso",
+    "billede": "billeder/Citroen.png",
+    "billedtekst": "Billede af udlejningsbil",
+    "kategori": "Minivan",
+    "personer": "7",
+    "kufferter": "4",
+    "lejepris": "DKK1800,00",
+    "tillaeg":"105"
+}
+]
+}
